@@ -1,0 +1,19 @@
+{
+  "name": "flashdetect",
+  "version": "1.0.0",
+  "description": "Tiny (<1k) Flash detection script distilled from SWFObject",
+  "main": "flashdetect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenningM/flashdetect.git"
+  },
+  "author": "Henning Morud <henning@morud.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenningM/flashdetect/issues"
+  },
+  "homepage": "https://github.com/HenningM/flashdetect#readme"
+}
